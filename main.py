@@ -33,7 +33,7 @@ async def getClientDetails():
     global hostname;
     global ip_address;
     print(f"Hostname: {hostname}")
-    print(f"IP Address: {ip_address}")
+    print(f"IP Addreyss: {ip_address}")
     return {"Hostname": hostname,
             "IP Address": ip_address
      }
